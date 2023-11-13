@@ -44,7 +44,7 @@ npm run commit
 
 - [husky](https://github.com/typicode/husky)：负责挂载 git 钩子的工具。
 - [commitlint](https://github.com/conventional-changelog/commitlint)：负责检查 git 提交的 lint 工具。
-- [conventional changelog](https://github.com/conventional-changelog/conventional-changelog)：AngularJS 的约定式提交规范，也被成为约定式提交规范。
+- [conventional changelog](https://github.com/conventional-changelog/conventional-changelog)：AngularJS 的约定式提交规范，也被称为约定式提交规范。
 - [commitizen](https://github.com/commitizen/cz-cli)：用于 git 提交的提示（prompt）工具。
 - [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog)：commitizen 符合 conventional changelog 规范的适配器。
 - [cz-conventional-changelog-zh-cn](https://github.com/henryau53/cz-conventional-changelog-zh-cn)：符合 conventional changelog 标准的简体中文版适配器，作者的 cz-conventional-changelog 的分叉（Fork）版本。
