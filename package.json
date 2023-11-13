@@ -1,0 +1,29 @@
+{
+  "name": "cz-conventional-template-zh-cn",
+  "bin": {
+    "cz-zh-cn": "./index.js"
+  },
+  "version": "1.0.0",
+  "description": "A Simplified Chinese template for commitizen using the cz-conventional-changelog(zh-cn) adapter",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Henry Yau <henryau53@outlook.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/henryau53/cz-conventional-template-zh-cn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henryau53/cz-conventional-template-zh-cn.git"
+  },
+  "keywords": [
+    "commitizen",
+    "commitizen-template",
+    "conventional-changelog",
+    "cz-conventional-changelog",
+    "cz-conventional-changelog-zh-cn"
+  ],
+  "dependencies": {
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog-zh-cn": "^0.0.6"
+  }
+}
