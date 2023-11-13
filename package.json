@@ -3,7 +3,7 @@
   "bin": {
     "cz-zh-cn": "./index.js"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Simplified Chinese template for commitizen using the cz-conventional-changelog(zh-cn) adapter",
   "main": "index.js",
   "scripts": {
